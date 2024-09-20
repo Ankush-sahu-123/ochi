@@ -1,9 +1,3 @@
-navbar
-landing page
-marquee
-about
-playfull
-cards
-cards
-ready to start
-footer
+its a frontend of website 'OCHI'
+build through react.js and tailwind.css 
+yet to make it responsive
